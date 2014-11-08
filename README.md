@@ -11,7 +11,7 @@ Launch your Apache Cordova Android app automatically when the device is booted.
 3. Add your forked plugin via the CLI:
 
 ```
-cordova plugin add https://github.com/[YOUR_USERNAME]/cordova-plugin-boot-launcher.git
+cordova plugin add https://github.com/jimibi/cordova-plugin-boot-launcher.git
 ```
 
 ## Platforms
