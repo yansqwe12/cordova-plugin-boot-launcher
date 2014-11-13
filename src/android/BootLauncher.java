@@ -1,4 +1,4 @@
-package uk.co.ilee.bootlauncher;
+package fr.edps.cordova.bootlauncher;
 
 import android.content.Intent;
 import android.net.Uri;
